@@ -1,7 +1,8 @@
 # NWFintech
 
-Start-
-Jan. 11/ 2020
+Period-
+Jan. 11/ 2020 
+
 
 Schedule-
 Monday    5:45 pm - 10:30 pm
