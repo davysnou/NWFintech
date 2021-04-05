@@ -13,5 +13,4 @@ Alternative Finance
 
 conda install xeus-python -c conda-forge
 conda install -c conda-forge nodejs
-From Class Instructor to Everyone:  10:38 PM
 jupyter labextension install @jupyterlab/debugger
